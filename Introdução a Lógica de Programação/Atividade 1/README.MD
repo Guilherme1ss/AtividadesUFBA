@@ -1,0 +1,1 @@
+Essas são algumas das atividades desenvolvidas no componente "Introdução a Lógica de Programação" da UFBA - Universidade Federal da Bahia durante o semestre de 2023.2
