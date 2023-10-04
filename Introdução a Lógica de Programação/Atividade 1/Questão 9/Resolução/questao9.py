@@ -1,0 +1,10 @@
+km, d = input().split()
+km = int(km)
+d = int(d)
+valorPorKM, valorPorPedagios = input().split()
+valorPorKM = int(valorPorKM)
+valorPorPedagios = int(valorPorPedagios)
+valorFinalKM = km*valorPorKM
+valorFinalPedagio = int((km//d)*valorPorPedagios)
+valorFinal = int(valorFinalKM + valorFinalPedagio)
+print(valorFinal)
